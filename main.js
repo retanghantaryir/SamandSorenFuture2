@@ -1,0 +1,1 @@
+console.log('Samand Soren Future starter');
